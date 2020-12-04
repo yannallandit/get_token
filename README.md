@@ -1,7 +1,7 @@
 # get_token
 HPE Cloud Volumes - API management lab
 
-# Prerequisites
+## Prerequisites
 Install csh and compile the bash script
 
 `# wget https://github.com/cerebrux/shellscript-to-binary-converter/archive/master.zip`
@@ -19,7 +19,7 @@ Install csh and compile the bash script
 => generate test_bash.sh.x and test_bash.sh.x.c
 => copy test_bash.sh.x to the final location
 
-# Setup
+## Setup
 1. Edit the cvuser and cvpwd files. Update the data with your credentials. 
 
 2. Move cvuser cvpwd files in the desired directory. `chmod 600 cvuser cvpwd`
